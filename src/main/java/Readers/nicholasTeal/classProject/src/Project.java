@@ -21,6 +21,6 @@ public class Project{
     	//I'm not sure if this is the correct file path, but the ptogram works
     	
     	input = new ProjectReader("data/nicholasTeal/stm_and_noload_2.csv").info;
-    	sdf
+    	
     }
 }
